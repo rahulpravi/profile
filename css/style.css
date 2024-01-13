@@ -485,6 +485,20 @@ ol {
   -o-transition: all, 0.5s;
   transition: all, 0.5s;
 }
+.hero__text h2 span{
+  color: red;
+  font-size: 60px;
+  font-weight: 700;
+  line-height: 70px;
+  text-transform: uppercase;
+  margin-bottom: 8px;
+  position: relative;
+  top: 100px;
+  opacity: 0;
+  -webkit-transition: all, 0.5s;
+  -o-transition: all, 0.5s;
+  transition: all, 0.5s;
+}
 .hero__text .primary-btn {
   position: relative;
   top: 100px;
