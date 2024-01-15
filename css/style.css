@@ -1709,7 +1709,7 @@ drop-shadow(-2px -2px 0 rgb(0, 255, 64));
   font-size: 18px;
   border: none;
   outline: none;
-  background-color: rgb(61, 133, 226);
+  background-color: #555);
   color: white;
   cursor: pointer;
   padding: 15px;
@@ -1717,7 +1717,7 @@ drop-shadow(-2px -2px 0 rgb(0, 255, 64));
 }
 
 #btotBtn:hover {
-  background-color: #555;
+  background-color: rgb(61, 133, 226);
 }
 /*----------------fffffffff--------------*/
 
